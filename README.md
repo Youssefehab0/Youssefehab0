@@ -161,11 +161,11 @@ https://github.com/Youssefehab0/Inventory-Management-System
 
 <div align="center">
 </p>
+  
+  ### ⚡ Code • Learn • Build • Repeat
+</div>
 
 ---
 
-<div align="center">
 
-### ⚡ Code • Learn • Build • Repeat
 
-</div>
