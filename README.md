@@ -30,7 +30,7 @@ Backend & Mobile Developer focused on building scalable APIs and modern mobile a
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,mysql,html,css,js,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,sql,mysql,html,css,js,git,github,vscode,visualstudio" />
 </p>
 
 ---
