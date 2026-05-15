@@ -118,6 +118,7 @@ C# • WPF • SQL Server • LINQ
 https://github.com/Youssefehab0/Inventory-Management-System
 ---
 
+---
 ## 📊 GitHub Dashboard
 
 <div align="center">
