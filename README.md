@@ -46,32 +46,76 @@ Backend & Mobile Developer focused on building scalable APIs and modern mobile a
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
-### 🚀 Quiz System
+## 🚀 E-commerce Web API
 
-Full-stack quiz management system using **ASP.NET Core** with authentication and role management.
+Backend system for managing products, authentication, and order workflows using ASP.NET Core.
 
-### 🛒 E-commerce Mobile Application
+### 🛠 Tech Stack
+ASP.NET Core • SQL Server • Entity Framework • JWT
 
-🔗 https://github.com/Youssefehab0/E-commerce-Mobile-Application
+### ✨ Features
+- JWT Authentication
+- RESTful APIs
+- Clean Architecture
 
-Mobile application using **Flutter** connected with backend APIs.
+🔗 Repository:  
+https://github.com/Youssefehab0/E-commerce-Web-API
 
-### 🏠 Gehazy Platform
+---
 
-Complaint and services management platform with modern admin dashboard.
+## 📱 E-commerce Mobile Application
 
-### 📊 Activity Tracker for Kids
+Cross-platform mobile application built with Flutter and integrated with backend APIs.
 
-Application that encourages children to stay active through engaging tasks.
+### 🛠 Tech Stack
+Flutter • Dart • REST API Integration
 
-### 📦 Inventory Management System
+### ✨ Features
+- Responsive UI
+- Shopping Cart
+- API Integration
 
-🔗 https://github.com/Youssefehab0/Inventory-Management-System
+🔗 Repository:  
+https://github.com/Youssefehab0/E-commerce-Mobile-Application
 
-Desktop system for stock tracking, product management, and reporting.
+---
 
+## 🧠 Quiz Management System
+
+Online examination platform with automated grading and role management.
+
+### 🛠 Tech Stack
+ASP.NET Core • SQL Server • JavaScript
+
+### ✨ Features
+- MCQ Auto Correction
+- Authentication System
+- Dashboard & Analytics
+
+🔗 Repository:  
+https://github.com/ElSewedy-Z-Spark-Tech/Quiz-managent
+
+🌐 Live Demo:  
+https://exam.sewedy.com.eg
+
+---
+
+## 📦 Inventory Management System
+
+Desktop system for stock tracking, product management, and reporting using a clean and efficient WPF architecture.
+
+### 🛠 Tech Stack
+C# • WPF • SQL Server • LINQ
+
+### ✨ Features
+Inventory and stock management
+Product lifecycle tracking
+Invoice and transactions handling
+
+🔗 Repository:
+https://github.com/Youssefehab0/Inventory-Management-System
 ---
 
 ## 📊 GitHub Dashboard
