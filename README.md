@@ -46,7 +46,7 @@ Backend & Mobile Developer focused on building scalable APIs and modern mobile a
 
 ---
 
-# 🌟 Featured Projects
+## 💼 Selected Work
 
 ## 🚀 E-commerce Web API
 
@@ -118,19 +118,26 @@ C# • WPF • SQL Server • LINQ
 https://github.com/Youssefehab0/Inventory-Management-System
 
 ---
-## 📊 GitHub Dashboard
+## 🏆 Highlights
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Youssefehab0&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefehab0&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Backend & Mobile Development
+- RESTful API Design
+- Authentication & Security
+- Problem Solving
+- Agile Collaboration
 
 ---
 
-## 📫 Contact Me
+## 🎯 Currently Learning
+```yaml
+- Clean Architecture
+- Advanced ASP.NET Core
+- System Design
+- Flutter Performance Optimization
+```
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
 
@@ -138,7 +145,7 @@ https://github.com/Youssefehab0/Inventory-Management-System
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/youssef-ahab-805bb8323/">
+<a href="https://www.linkedin.com/in/youssef-ahab-805bb8323/?locale=en">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -146,6 +153,15 @@ https://github.com/Youssefehab0/Inventory-Management-System
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" />
+</p>
+
+<div align="center">
 </p>
 
 ---
