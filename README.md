@@ -1,81 +1,48 @@
 <h1 align="center">👋 Hi, I'm Youssef Ehab Hassan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;ASP.NET+Developer;Flutter+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Mobile+Application+Developer;ASP.NET+Core+Developer;Flutter+Developer" />
 </p>
 
 <p align="center">
-  <b>Software Engineering Student • Full-Stack Developer • ASP.NET • Flutter</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Youssef%20Ehab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Mobile%20Developer&descAlignY=55&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Youssefehab0&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Youssefehab0&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/followers/Youssefehab0?style=for-the-badge&logo=github&color=00C2FF" />
 </p>
 
 ---
 
-## 💡 About Me
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a **Software Engineering student and Full-Stack Developer** with a strong passion for building real-world applications using modern technologies.
+## 🚀 About Me
 
-🎓 Studying at **Elsewedy International School of Applied Technology**
-💻 Specialized in **ASP.NET Core, Web API, Flutter, and SQL Server**
-🚀 Focused on creating scalable systems and clean user experiences
-
-I enjoy turning ideas into real software products and continuously improving my skills every day.
+Backend & Mobile Developer focused on building scalable APIs and modern mobile applications using ASP.NET Core and Flutter.
 
 ---
 
-## 💼 What I Do
+## 🛠 Tech Stack
 
-📱 **Flutter Development**
-Building mobile applications with responsive UI and smooth user experience.
-
-🌐 **ASP.NET Development**
-Creating web applications, dashboards, and RESTful APIs.
-
-🗄 **Database Management**
-Designing databases and managing data efficiently using SQL Server.
-
-🧠 **Problem Solving**
-Applying Data Structures & Algorithms to solve real-world problems.
-
-🤝 **Team Collaboration**
-Working effectively in teams and adapting quickly to new environments.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,mysql,html,css,js,git,github,vscode,visualstudio" />
+</p>
 
 ---
 
-## 🛠 Skills & Technologies
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Youssefehab0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,dart,flutter,html,css,js,git,github,mysql,vscode,visualstudio" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefehab0&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
 
-<br><br>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefehab0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## ✨ Highlights
-
-* 🚀 Built multiple real-world projects
-* 🧠 Strong logical thinking and problem-solving skills
-* ⚡ Fast learner and highly adaptable
-* 🤝 Excellent teamwork mindset
-* 📈 Always improving and learning new technologies
-
----
-
-## 🎯 Currently Learning
-
-* 🚀 Advanced ASP.NET Core Web API
-* 🧱 Clean Architecture
-* 📱 Flutter Performance Optimization
-* ☁ Deployment & Hosting
-* 🔐 Authentication & Security Best Practices
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssefehab0&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%"/>
+</p>
 
 ---
 
