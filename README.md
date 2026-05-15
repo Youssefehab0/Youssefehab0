@@ -1,15 +1,21 @@
 <h1 align="center">👋 Hi, I'm Youssef Ehab Hassan</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Mobile+Application+Developer;ASP.NET+Core+Developer;Flutter+Developer" />
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Youssef%20Ehab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Mobile%20Developer&descAlignY=55&descAlign=50" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Youssefehab0&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  
   <img src="https://img.shields.io/github/followers/Youssefehab0?style=for-the-badge&logo=github&color=00C2FF" />
 </p>
+
 ---
+
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🚀 About Me
 Backend & Mobile Developer focused on building scalable APIs and modern mobile applications using ASP.NET Core and Flutter.
