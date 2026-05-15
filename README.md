@@ -38,7 +38,6 @@ Backend & Mobile Developer focused on building scalable APIs and modern mobile a
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Youssefehab0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefehab0&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
