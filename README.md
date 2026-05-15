@@ -110,11 +110,11 @@ Desktop system for stock tracking, product management, and reporting using a cle
 C# • WPF • SQL Server • LINQ
 
 ### ✨ Features
-Inventory and stock management
-Product lifecycle tracking
-Invoice and transactions handling
+- Inventory and stock management
+- Product lifecycle tracking
+- Invoice and transactions handling
 
-🔗 Repository:
+🔗 Repository:  
 https://github.com/Youssefehab0/Inventory-Management-System
 ---
 
